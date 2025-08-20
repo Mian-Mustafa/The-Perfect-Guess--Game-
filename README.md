@@ -4,7 +4,10 @@
 ````markdown
 # 🎮 The Perfect Game  
 
-A simple number guessing game written in **Python**. The program randomly selects a number between **1 and 100**, and the player has to guess it in as few attempts as possible. After each guess, the game provides hints whether the number is **higher** or **lower** than the guess.  
+A simple number guessing game written in **Python**.
+ The program randomly selects a number between **1 and 100**,
+and the player has to guess it in as few attempts as possible.
+After each guess, the game provides hints whether the number is **higher** or **lower** than the guess.  
 
 ---
 
